@@ -1,6 +1,6 @@
 ### Hi, I'm Tyler 👋
 
-### I'm a fourth year student at the University of Iowa studying Business Analytics & Information Systems with a minor in Computer Science
+### I'm an alumn from the University of Iowa with a B.B.A in Business Analytics & Information Systems and a Minor in Computer Science
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tyler-noga)[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tylernoga.com/)
 ### Current skills
